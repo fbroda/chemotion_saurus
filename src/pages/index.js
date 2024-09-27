@@ -10,7 +10,7 @@ const features = [
   {
     imageUrl: 'img/chemeln.jpg',
     title: 'Chemotion ELN',
-    mainLink: 'http://eln.chemotion.net',
+    mainLink: 'https://demo.chemotion.ibcs.kit.edu/',
   },
 
   {
@@ -21,15 +21,9 @@ const features = [
   },
 
   {
-    imageUrl: 'img/chemeln.jpg',
-    title: 'SciMotion ELN',
-    mainLink: 'http://eln.chemotion.net',
-  },
-
-  {
     imageUrl: 'img/spectraviewer.png',
     title: 'ChemSpectra',
-    mainLink: 'http://eln.chemotion.net/chemspectra-editor',
+    mainLink: 'https://demo.chemotion.ibcs.kit.edu/chemspectra',
     mainTitle: ' Try our ChemSpectra'
   },
 
